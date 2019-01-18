@@ -13,3 +13,8 @@ Step Two
 Step Three
 - Open your project in your preferred browser
 - Click on the tennis balls to see some pups!
+
+![white pup](https://github.com/mzdraper/popup-pup/blob/master/pups/pup1.png "white pup")
+https://github.com/mzdraper/popup-pup/blob/master/pups/pup1.png
+![aussie pup](https://github.com/mzdraper/popup-pup/blob/master/pups/pup2.png "aussie pup")
+https://github.com/mzdraper/popup-pup/blob/master/pups/pup2.png
